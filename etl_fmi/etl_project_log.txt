@@ -1,0 +1,7 @@
+2026-Apr-30-12:39:46 - Iniciando processo ETL
+2026-Apr-30-12:39:46 - Extração iniciada
+2026-Apr-30-12:39:47 - Extração finalizada. 213 países encontrados.
+2026-Apr-30-12:39:47 - Salvando JSON em Countries_by_GDP.json
+2026-Apr-30-12:39:47 - JSON salvo com sucesso.
+2026-Apr-30-12:39:47 - Salvando dados em World_Economies.db
+2026-Apr-30-12:39:47 - Banco de dados salvos com sucesso.
